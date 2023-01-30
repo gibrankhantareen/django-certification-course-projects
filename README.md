@@ -8,5 +8,5 @@ I am currently pursuing a Advanced Django Certification Course. I am having a lo
 
 ## Feedback
 
-If you have any feedback, please reach out to me at gibrankhantareen@gmail.com
+If you have any feedback, please reach out to me at gibrantareen@gmail.com
 
