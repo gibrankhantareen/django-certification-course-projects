@@ -1,0 +1,8 @@
+### These all notes are made by Gibran Khan Tareen. I have made it for other student's reference and also for my personal revision ###
+
+
+What Did I learn in this Project?
+1. How to create 'Templates Folder' and how to integrate it with project
+2. How to create new pages and sync them on urls also
+3. How to create new template files
+4. How to create common template file "navbar.html" and import on all pages
