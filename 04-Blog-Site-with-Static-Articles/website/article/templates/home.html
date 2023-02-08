@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% for artic in object_list %}
+
+<div class="">
+    <h3><a href="">{{ artic.title }}</a></h3>
+    <p>{{ artic.text }}</p>
+
+</div>
+
+{% endfor %}
+
+
+{% endblock content %}
